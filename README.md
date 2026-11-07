@@ -1,4 +1,5 @@
 # Waka – website đọc sách, truyện & sách nói (PHP + MariaDB/MySQL)
+Huỳnh Thanh Nguyên _ 65132295
 
 ## Cài đặt (XAMPP)
 1. Chép thư mục `waka/` vào `htdocs/`, bật Apache + MySQL.
