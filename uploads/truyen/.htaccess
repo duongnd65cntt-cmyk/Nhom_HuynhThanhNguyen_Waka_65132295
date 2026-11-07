@@ -1,0 +1,5 @@
+# Thư mục chỉ chứa ảnh: không cho thực thi/truy cập script
+Options -ExecCGI -Indexes
+<FilesMatch "(?i)\.(php|phtml|phar|php[0-9]|pl|py|cgi)$">
+    Require all denied
+</FilesMatch>

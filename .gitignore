@@ -1,0 +1,7 @@
+cache/*.json
+logs/*.log
+uploads/bia/*
+uploads/audio/*
+uploads/tac_gia/*
+uploads/avatar/*
+!uploads/*/.htaccess
